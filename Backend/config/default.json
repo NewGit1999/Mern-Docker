@@ -1,0 +1,4 @@
+{
+	"jwtSecret" = "jwtSecret",
+	"tokenExpire" = "2592000"
+}
