@@ -1,4 +1,4 @@
 {
-	"jwtSecret" = "jwtSecret",
-	"tokenExpire" = "2592000"
+	"jwtSecret" : "jwtSecret",
+	"tokenExpire" : "2592000"
 }
